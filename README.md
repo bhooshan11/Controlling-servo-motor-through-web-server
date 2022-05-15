@@ -35,7 +35,7 @@ In order to function properly the servo motor needs a sensor that can accurately
  ## Connections for controlling servo motor using potentiometer
  ![this is an image](https://github.com/bhooshan11/Controlling-servo-motor-through-web-server/blob/main/circuit%20for%20servo%20motor%20controlling%20using%20potentiometer.jpg)
  
- **Code for controlling servo motor using potentiometer :**- 
+ **Code for controlling servo motor using potentiometer :**- https://github.com/bhooshan11/Controlling-servo-motor-through-web-server/blob/main/task_4_oart_2.ino
  
  ## Working 
   https://drive.google.com/file/d/10ClpV2dcTy-nv8FdkwQvSkRxsCX_dRNO/view?usp=sharing
