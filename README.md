@@ -21,7 +21,7 @@ In order to function properly the servo motor needs a sensor that can accurately
 
 ## Procedure 
 *	Open arduino ide and write the code
-  code :
+  code : https://github.com/bhooshan11/Controlling-servo-motor-through-web-server/blob/main/task_4_part_1.ino
 * Save and compile the code.
 *	Select the appropriate com port and board(esp32 devmodule).
 *	Upload the code to esp32.
